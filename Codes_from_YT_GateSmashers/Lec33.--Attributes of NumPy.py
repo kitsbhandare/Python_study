@@ -1,0 +1,1 @@
+#Lecture link:https://www.youtube.com/watch?v=Aff6Z0Pz650&list=PLxCzCOWd7aiEb4apyN1Y8mD-QuUTr3SPQ&index=38
