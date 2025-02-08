@@ -26,5 +26,4 @@ def decorator(func):
 @decorator
 def hello():
     print("Hello")
-
 hello()
